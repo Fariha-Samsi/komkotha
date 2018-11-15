@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1541529160 source:/mnt/local-disk/CodeBlocks Projects/Assignment-2/STLList/main.cpp
+	<iostream>
+	"PhoneNumber.h"
+	"Customer.h"
+	"CustomerDatabaseVector.h"
+
+1541390502 /mnt/local-disk/CodeBlocks Projects/Assignment-2/STLList/PhoneNumber.h
+	<iostream>
+	"Exception.h"
+
+1541390446 source:/mnt/local-disk/CodeBlocks Projects/Assignment-2/STLList/PhoneNumber.cpp
+	"PhoneNumber.h"
+
+1541202956 /mnt/local-disk/CodeBlocks Projects/Assignment-2/STLList/PhoneNumberException.h
+	<iostream>
+
+1541193703 source:/mnt/local-disk/CodeBlocks Projects/Assignment-2/STLList/PhoneNumberException.cpp
+	"PhoneNumberException.h"
+
+1541393406 source:/mnt/local-disk/CodeBlocks Projects/Assignment-2/STLList/Person.cpp
+	"Person.h"
+
+1541393371 /mnt/local-disk/CodeBlocks Projects/Assignment-2/STLList/Person.h
+	<iostream>
+	"Exception.h"
+
+1541203073 /mnt/local-disk/CodeBlocks Projects/Assignment-2/STLList/Exception.h
+	<iostream>
+
+1541203291 source:/mnt/local-disk/CodeBlocks Projects/Assignment-2/STLList/Exception.cpp
+	"Exception.h"
+
+1541529233 source:/mnt/local-disk/CodeBlocks Projects/Assignment-2/STLList/Customer.cpp
+	"Customer.h"
+
+1541394196 /mnt/local-disk/CodeBlocks Projects/Assignment-2/STLList/Customer.h
+	<iostream>
+	<list>
+	"PhoneNumber.h"
+	"Person.h"
+
+1541398346 source:/mnt/local-disk/CodeBlocks Projects/Assignment-2/STLList/CustomerDatabaseVector.cpp
+	"CustomerDatabaseVector.h"
+
+1541392733 /mnt/local-disk/CodeBlocks Projects/Assignment-2/STLList/CustomerDatabaseVector.h
+	<iostream>
+	<vector>
+	"Customer.h"
+
+1541398346 source:/mnt/local-disk/CodeBlocks Projects/Assignment-2/STLForwardList/CustomerDatabaseVector.cpp
+	"CustomerDatabaseVector.h"
+
+1541392733 /mnt/local-disk/CodeBlocks Projects/Assignment-2/STLForwardList/CustomerDatabaseVector.h
+	<iostream>
+	<vector>
+	"Customer.h"
+
+1541530033 /mnt/local-disk/CodeBlocks Projects/Assignment-2/STLForwardList/Customer.h
+	<iostream>
+	<forward_list>
+	"PhoneNumber.h"
+	"Person.h"
+
+1541390502 /mnt/local-disk/CodeBlocks Projects/Assignment-2/STLForwardList/PhoneNumber.h
+	<iostream>
+	"Exception.h"
+
+1541203073 /mnt/local-disk/CodeBlocks Projects/Assignment-2/STLForwardList/Exception.h
+	<iostream>
+
+1541393371 /mnt/local-disk/CodeBlocks Projects/Assignment-2/STLForwardList/Person.h
+	<iostream>
+	"Exception.h"
+
+1541203291 source:/mnt/local-disk/CodeBlocks Projects/Assignment-2/STLForwardList/Exception.cpp
+	"Exception.h"
+
+1541529627 source:/mnt/local-disk/CodeBlocks Projects/Assignment-2/STLForwardList/main.cpp
+	<iostream>
+	"PhoneNumber.h"
+	"Customer.h"
+	"CustomerDatabaseVector.h"
+
+1541393406 source:/mnt/local-disk/CodeBlocks Projects/Assignment-2/STLForwardList/Person.cpp
+	"Person.h"
+
+1541390446 source:/mnt/local-disk/CodeBlocks Projects/Assignment-2/STLForwardList/PhoneNumber.cpp
+	"PhoneNumber.h"
+
+1541530613 source:/mnt/local-disk/CodeBlocks Projects/Assignment-2/STLForwardList/Customer.cpp
+	"Customer.h"
+
